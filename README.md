@@ -27,10 +27,11 @@
     <li> <b> <a href="https://www.livescore.com/en/">SAO PAULO, STADIUM: Arena de Sao Paulo </a> </b></li>
   </ul>
   <footer>
+      <h3>
      <img src="https://tse1.mm.bing.net/th?id=OIP.i2kD4QvaW6NoPXqzqJ9XVQHaHa&pid=Api&P=0&h=180" width="30" height="30"alt="RSS Feed">
     <img src="https://media.zenobuilder.com/upload/wy5fyeqebr/linkedin-39147015.png" width="30" height="30"alt="LinkedIn">
     <img src="https://th.bing.com/th/id/OIP.m9u8waA0ptTj49U2fBI5XgHaHa?rs=1&pid=ImgDetMain" width="30" height="30"alt="Twitter">
-  
+  </h3>
 </footer>
 </body>
 </html>
