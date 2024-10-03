@@ -27,9 +27,9 @@
     <li> <b> <a href="https://www.livescore.com/en/">SAO PAULO, STADIUM: Arena de Sao Paulo </a> </b></li>
   </ul>
   <footer>
-    <img src="rss.jpg" width="30" height="30"alt="RSS Feed">
-    <img src="linkedin.jpg" width="30" height="30"alt="LinkedIn">
-    <img src="twitter.jpg" width="30" height="30"alt="Twitter">
+     <img src="https://tse1.mm.bing.net/th?id=OIP.i2kD4QvaW6NoPXqzqJ9XVQHaHa&pid=Api&P=0&h=180" width="30" height="30"alt="RSS Feed">
+    <img src="https://media.zenobuilder.com/upload/wy5fyeqebr/linkedin-39147015.png" width="30" height="30"alt="LinkedIn">
+    <img src="https://th.bing.com/th/id/OIP.m9u8waA0ptTj49U2fBI5XgHaHa?rs=1&pid=ImgDetMain" width="30" height="30"alt="Twitter">
   
 </footer>
 </body>
