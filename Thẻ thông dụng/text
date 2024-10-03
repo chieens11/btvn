@@ -1,0 +1,77 @@
+I. Các thẻ HTML thông dụng
+1. Thẻ html
+<html>: thẻ mở đầu của văn bản HTML.
+2. Thẻ head
+<head></head>: dùng để chứa những thẻ cung cấp thông tin cho trang web. Trong chuẩn HTML5, thẻ head cũng có thể được bỏ qua. Theo mặc định, trình duyệt sẽ thêm tất cả các phần tử trước thẻ <body>, đặt mặc định vào phần tử <head>.
+3. Thẻ meta
+<meta>: mô tả nội dung trang web
+4. Thẻ link
+<link>: dùng để nhúng 1 tập tin vào trang web như css ...
+5. Thẻ script
+<script></script>: thẻ dùng để nhúng tập tin javascript, js.
+6. Thẻ style
+<style></style>: dùng để bao nội dung css.
+7. Thẻ body
+<body></body>: thẻ chứa nội dung chính của trang web.
+8. Thẻ h1
+<h1></h1>: thẻ hiển thị tiêu đề nội dung của bài viết nào đó.
+9. Thẻ div
+<div></div>: thẻ dùng để chứa nhiều phần tử thường dùng để tạo bố cục cho trang web giúp dể quản lý và code hơn.
+10. Thẻ span
+<span></span>: thẻ chứa nội dung.
+11. Thẻ p
+<p></p>: thẻ chứa nội dung thường là 1 đoạn văn bản.
+12. Thẻ a
+<a></a>: thẻ tạo link.
+13. Thẻ ul
+<ul></ul>: thẻ mô tả liệt kê theo dạng danh sách.
+14. Thẻ img
+<img>: thẻ dùng để hiển thị hình ảnh.
+15. Thẻ form
+<form>: thẻ form kết hợp cùng các thẻ input, legend, fieldset, label dùng để tạo form nhập liệu cho trang web.
+<legend>: thẻ tiêu đề của nhóm các ô nhập liệu
+<fieldset>: thẻ dùng để nhóm các ô nhập liệu
+<label>: tiêu đề của ô nhập liệu
+<input>: thẻ nhập liệu
+16. Thẻ br
+<br> thẻ xuống hàng
+17. Thẻ hr
+<hr>: thẻ tạo đường kẻ ngang
+18. Thẻ table
+<table></table>: thẻ table kết hợp với các thẻ tr, th, td dùng để tạo bảng.
+<tr></tr>: tạo hàng trong bảng
+<th></th>: tạo hàng đầu tiên của bảng
+<td></td>: tạo cột trong hàng của bảng
+19 .Thẻ iframe
+<iframe></iframe>: thẻ nhúng một nội dung nào đó vào trang web hiện tại.
+20. Thẻ b
+<b></b> thẻ in đậm nội dung văn bản
+21. Thẻ strong
+<strong></strong>: thẻ in đậm với mục đích nhấn mạnh ý nghĩa của văn bản hơn
+22. Thẻ i
+<i></i> thẻ tạo chữ in nghiêng
+23. Thẻ u
+<u></u>: thẻ tạo chữ gạch dưới
+24. Thẻ s
+<s></s>: thẻ tạo chữ gạch cắt ngang
+25. Thẻ sub và sup
+<sub></sub>: thẻ tạo kiểu chữ
+26. Thẻ blockquote
+<blockquote></blockquote>: thẻ mô tả một đoạn trích dẫn.
+27. Thẻ pre
+<pre></pre>: thẻ giữ lại định dạng nội dung bên trong văn bản.
+II. Bổ sung một số thẻ HTML5 thông dụng
+1. Thẻ section
+<section></section>: thẻ section được sử dụng để tạo thành một khu vực bao gồm những nội dung giống nhau.
+2. Thẻ article
+<article></article>: thẻ article được sử dụng như một nội dung độc lập.
+3. Thẻ header
+<header></header>: thẻ header được sử dụng cho phần đầu trang hoặc phần đầu của một thẻ.
+4. Thẻ footer
+<footer></footer>: thẻ footer tương tự như thẻ header và được sử dụng cho phần cuối trang hoặc hoặc phần cuối của một thẻ.
+5. Thẻ nav
+<nav></nav>: thẻ nav được sử dụng để chứa các liên kết điều hướng trong trang.
+6. Thẻ aside
+<aside></aside>: thẻ aside được sử dụng để chứa những thông tin bên cạnh nội dung chính.
+7. Thẻ figure
+<figure></figure>: thẻ figure được dùng để xác định các nội dung liên quan mạch lạc với nhau, như hình ảnh, sơ đồ, code và thường được đi kèm với thẻ figcaption để chỉ một chú thích.
