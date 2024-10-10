@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hhh{
+    margin: 0 auto;
+    background-color: rgb(107, 181, 181);
+    padding: 10px 30px;
+    color: lightblue;
+
+}
+.fff{
+    color:cyan ;
+}
+.ddd{
+    padding: 10px 30px;
+  background-color: rgb(8, 7, 7);
+  color: aliceblue;
+}
